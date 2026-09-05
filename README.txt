@@ -1,8 +1,11 @@
-REPLACE THESE THREE FILES IN THE ROOT OF YOUR EXISTING NETFLIX-CODES REPOSITORY:
+UNITED STATES REGION — REPLACEMENT FILES
 
-united-states.html
-united-states-107970-american-movies.html
-united-states-56957-african-american-movies.html
+Replace the three existing United States HTML files with the three HTML files in this ZIP.
 
-Do not replace style.css or any other files.
-The pages use relative local HTML links and the existing root style.css.
+IMPORTANT:
+- The old code 107970 for American Movies no longer resolves reliably.
+  It has been replaced by Netflix's current US Movies collection: 1159493.
+- The old code 56957 for African-American Movies no longer resolves reliably.
+  Netflix's current Black Stories collection is 81305957.
+
+Do not replace style.css or any other site files.
